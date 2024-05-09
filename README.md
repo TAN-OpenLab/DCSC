@@ -26,6 +26,6 @@ python main.py
 ## Reference
 
 ```
-Wu, D., Tan, Z., Zhao, H. et al. LIMFA: label-irrelevant multi-domain feature alignment-based fake news detection for unseen domain. Neural Comput & Applic 36, 5197–5215 (2024). https://doi.org/10.1007/s00521-023-09340-z
+Danke Wu, Zhenhua Tan, Haoran Zhang, Taotao Jiang, Ning Geng. Domain and category-style clustering for general fake news detection via contrastive learning. Information Processing and Management, Vol.61, Issue 4, 2024, 18 pages. [DOI:10.1016/j.ipm.2024.103725]
 ```
 
